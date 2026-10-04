@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.4](https://github.com/dryvist/tofu-runs-on/compare/v3.2.3...v3.2.4) (2026-10-04)
+
+
+### Bug Fixes
+
+* **flake:** prefer the OpenTofu dev shell ([#129](https://github.com/dryvist/tofu-runs-on/issues/129)) ([72905a0](https://github.com/dryvist/tofu-runs-on/commit/72905a0801daad6a5f7755e8093db193f5741839))
+
 ## [3.2.3](https://github.com/dryvist/tofu-runs-on/compare/v3.2.2...v3.2.3) (2026-07-14)
 
 
