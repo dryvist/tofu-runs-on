@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.5](https://github.com/dryvist/tofu-runs-on/compare/v3.2.4...v3.2.5) (2026-10-04)
+
+
+### Bug Fixes
+
+* format release-please configuration ([c0c2b78](https://github.com/dryvist/tofu-runs-on/commit/c0c2b78da6871364fdf50c7f008d8c0574ca184f))
+
 ## [3.2.4](https://github.com/dryvist/tofu-runs-on/compare/v3.2.3...v3.2.4) (2026-10-04)
 
 
