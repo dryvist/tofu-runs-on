@@ -1,4 +1,4 @@
-# Synced from dryvist/.github precommit/configs/tflint.hcl — keep in
+# Synced from JacobPEvans/.github precommit/configs/tflint.hcl — keep in
 # lockstep with that canonical. Renovate sync of precommit/configs/ is
 # queued; refresh manually for now.
 
