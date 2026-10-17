@@ -13,8 +13,8 @@
 #     for credential leak detection.
 #
 # .tflint.hcl in this repo carries the canonical content from
-# dryvist/.github precommit/configs/tflint.hcl — copy synced manually
-# (Renovate sync of precommit/configs/ is queued; see dryvist/.github
+# JacobPEvans/.github precommit/configs/tflint.hcl — copy synced manually
+# (Renovate sync of precommit/configs/ is queued; see JacobPEvans/.github
 # precommit/README.md). The AWS plugin previously declared here has
 # been dropped because cachix/git-hooks.nix's tflint wrapper can't
 # initialize tflint plugins inside the nix-sandboxed hook run.
@@ -86,7 +86,7 @@
             # `--config <sharedConfigs.tflint>` plumbing. Until the wrapper
             # accepts pass-through args, fall back to tflint's local-config
             # discovery and keep a copy of the canonical .tflint.hcl in
-            # this repo (synced from dryvist/.github precommit/configs/).
+            # this repo (synced from JacobPEvans/.github precommit/configs/).
             tflint.args = lib.mkForce [ ];
 
             # terraform-validate needs `tofu init` to download referenced
