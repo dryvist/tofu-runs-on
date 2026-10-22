@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.6](https://github.com/dryvist/tofu-runs-on/compare/v3.2.5...v3.2.6) (2026-10-22)
+
+
+### Bug Fixes
+
+* **iac:** pin RunsOn module to v3.0.10 ([#179](https://github.com/dryvist/tofu-runs-on/issues/179)) ([f7deb52](https://github.com/dryvist/tofu-runs-on/commit/f7deb52bb2130d1fc72f5a28a77a1919da9ec100))
+
 ## [3.2.5](https://github.com/dryvist/tofu-runs-on/compare/v3.2.4...v3.2.5) (2026-10-04)
 
 
