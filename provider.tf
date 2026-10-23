@@ -19,4 +19,9 @@ provider "aws" {
   default_tags {
     tags = local.common_tags
   }
+
+  # Existing ManagedBy tags stay as they are; the deploy role cannot retag every resource.
+  ignore_tags {
+    keys = ["ManagedBy"]
+  }
 }
