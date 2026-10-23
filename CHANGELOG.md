@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.7](https://github.com/dryvist/tofu-runs-on/compare/v3.2.6...v3.2.7) (2026-10-23)
+
+
+### Bug Fixes
+
+* use bundled RunsOn Lambda archives ([#181](https://github.com/dryvist/tofu-runs-on/issues/181)) ([44bff9a](https://github.com/dryvist/tofu-runs-on/commit/44bff9a31688c2b5b97dad831d6aed9efd9a804d))
+
 ## [3.2.6](https://github.com/dryvist/tofu-runs-on/compare/v3.2.5...v3.2.6) (2026-10-22)
 
 
