@@ -1,6 +1,6 @@
 module "runs_on" {
   source  = "runs-on/runs-on/aws//modules/flex"
-  version = "= 3.0.10"
+  version = "= 3.1.3"
 
   # Required. Runtime credentials and license data are supplied to the
   # Terrakube workspace from OpenBao (see CLAUDE.md).
