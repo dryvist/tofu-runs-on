@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.8](https://github.com/dryvist/tofu-runs-on/compare/v3.2.7...v3.2.8) (2026-10-23)
+
+
+### Bug Fixes
+
+* stop managing the ManagedBy tag ([#183](https://github.com/dryvist/tofu-runs-on/issues/183)) ([5bd40f4](https://github.com/dryvist/tofu-runs-on/commit/5bd40f4331558f148f9cd8f76119dd0401c18dd9))
+
 ## [3.2.7](https://github.com/dryvist/tofu-runs-on/compare/v3.2.6...v3.2.7) (2026-10-23)
 
 
