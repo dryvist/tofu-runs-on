@@ -7,7 +7,7 @@ jobs:
       checks: read
       contents: read
       pull-requests: write
-    uses: JacobPEvans/.github-ai/.github/workflows/_ai-merge-gate.yml@v2
+    uses: JacobPEvans/.github-ai/.github/workflows/_ai-merge-gate.yml@fix/ai-review-stable-check-run
     with:
       runner_label: review
     secrets:
